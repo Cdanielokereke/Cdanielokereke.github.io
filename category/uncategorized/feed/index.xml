@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; User&#039;s blog</title>
+	<atom:link href="https://Cdanielokereke.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://Cdanielokereke.github.io/</link>
+	<description></description>
+	<lastBuildDate>Sat, 28 Dec 2024 03:27:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>My Journey Into Cloud Computing: A College Student’s Perspective</title>
+		<link>https://Cdanielokereke.github.io/2024/12/28/hello-world/</link>
+					<comments>https://Cdanielokereke.github.io/2024/12/28/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Sat, 28 Dec 2024 02:33:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://127.0.0.1/?p=1</guid>
+
+					<description><![CDATA[Introduction Getting into cloud computing can feel like a lot at first. As a college student, I’ve been figuring it out step by step—learning from mistakes, completing projects, and gaining a better understanding of what’s possible in tech. In this post, I’m sharing the projects I’ve worked on, what I’ve learned, and where I want &#8230; <p class="link-more"><a href="https://Cdanielokereke.github.io/2024/12/28/hello-world/" class="more-link">Continue reading<span class="screen-reader-text"> "My Journey Into Cloud Computing: A College Student’s Perspective"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p style="font-size:16px"><strong>Introduction</strong></p>
+
+
+
+<p>Getting into cloud computing can feel like a lot at first. As a college student, I’ve been figuring it out step by step—learning from mistakes, completing projects, and gaining a better understanding of what’s possible in tech. In this post, I’m sharing the projects I’ve worked on, what I’ve learned, and where I want to go from here.</p>
+
+
+
+<p style="font-size:16px"><strong>Finding My Way to Cloud Computing</strong></p>
+
+
+
+<p>At first, I wasn’t sure what part of IT I wanted to focus on. I looked into help desk roles, cybersecurity, and even project management. But once I started learning about cloud computing, it just clicked. The idea of being able to build scalable, powerful systems without needing physical hardware was exciting. Plus, it feels like there’s always something new to learn in this field.</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center has-medium-font-size"><strong>Projects I’ve Completed</strong></h2>
+
+
+
+<p style="font-size:16px">1. <strong>Hosting a Static Website on AWS S3</strong></p>
+
+
+
+<p>This was my first real project, and it was a great intro to cloud computing. I created a static website and hosted it on <strong>AWS S3</strong>. Along the way, I figured out:</p>
+
+
+
+<ul class="wp-block-list">
+<li>How to set up an S3 bucket for hosting.</li>
+
+
+
+<li>Fixed issues with file structures and <code>index.html</code>.</li>
+
+
+
+<li>Configured public access to make the site live.</li>
+</ul>
+
+
+
+<p>Seeing the site up and running at <strong><a href="http://codepen-test-website.s3-website.us-east-2.amazonaws.com/">http://codepen-test-website.s3-website.us-east-2.amazonaws.com/</a></strong> was super rewarding. It made me realize how quickly you can bring ideas to life in the cloud.</p>
+
+
+
+<p></p>
+
+
+
+<p class="has-text-align-left" style="font-size:16px">2. <strong>Building this Personal Blog with AWS Lightsail</strong></p>
+
+
+
+<p>This one’s in progress, but I’ve already learned a lot. I’m setting up a WordPress blog on AWS Lightsail, which has helped me get into managing virtual servers. Here’s what I’ve been doing so far:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Spinning up a Lightsail instance and configuring it for WordPress.</li>
+
+
+
+<li>Setting up a custom domain and working on securing it with HTTPS.</li>
+
+
+
+<li>Customizing the blog to make it my own.</li>
+</ul>
+
+
+
+<p>This project has shown me how cloud services can simplify hosting while still letting you dive into the technical details when needed.</p>
+
+
+
+<p>Here’s a revised version using a tone and words more aligned with your style:</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading"><strong>Title: My Journey Into Cloud Computing: A College Student’s Perspective</strong></h3>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading"><strong>Introduction</strong></h3>
+
+
+
+<p>Getting into cloud computing can feel like a lot at first. As a college student, I’ve been figuring it out step by step—learning from mistakes, completing projects, and gaining a better understanding of what’s possible in tech. In this post, I’m sharing the projects I’ve worked on, what I’ve learned, and where I want to go from here.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading"><strong>Finding My Way to Cloud Computing</strong></h3>
+
+
+
+<p>At first, I wasn’t sure what part of IT I wanted to focus on. I looked into help desk roles, cybersecurity, and even project management. But once I started learning about cloud computing, it just clicked. The idea of being able to build scalable, powerful systems without needing physical hardware was exciting. Plus, it feels like there’s always something new to learn in this field.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading"><strong>Projects I’ve Completed</strong></h3>
+
+
+
+<h4 class="wp-block-heading"><strong>1. Hosting a Static Website on AWS S3</strong></h4>
+
+
+
+<p>This was my first real project, and it was a great intro to cloud computing. I created a static website and hosted it on <strong>AWS S3</strong>. Along the way, I figured out:</p>
+
+
+
+<ul class="wp-block-list">
+<li>How to set up an S3 bucket for hosting.</li>
+
+
+
+<li>Fixed issues with file structures and <code>index.html</code>.</li>
+
+
+
+<li>Configured public access to make the site live.</li>
+</ul>
+
+
+
+<p>Seeing the site up and running at <strong><a href="http://codepen-test-website.s3-website.us-east-2.amazonaws.com/">http://codepen-test-website.s3-website.us-east-2.amazonaws.com/</a></strong> was super rewarding. It made me realize how quickly you can bring ideas to life in the cloud.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h4 class="wp-block-heading"><strong>2. Building a Personal Blog with AWS Lightsail</strong></h4>
+
+
+
+<p>This one’s in progress, but I’ve already learned a lot. I’m setting up a WordPress blog on <strong>AWS Lightsail</strong>, which has helped me get into managing virtual servers. Here’s what I’ve been doing so far:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Spinning up a Lightsail instance and configuring it for WordPress.</li>
+
+
+
+<li>Setting up a custom domain and working on securing it with HTTPS.</li>
+
+
+
+<li>Customizing the blog to make it my own.</li>
+</ul>
+
+
+
+<p>This project has shown me how cloud services can simplify hosting while still letting you dive into the technical details when needed.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p style="font-size:16px"><strong>3. Breaking Down Red Team Attacks</strong></p>
+
+
+
+<p>One of my most interesting experiences was a group project where we analyzed <strong>Red Team Attack strategies</strong>. Even though it wasn’t strictly cloud-focused, it gave me a lot of insight into vulnerabilities and defenses—something that’s super relevant to cloud security. My role involved:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Researching and explaining attack methods to my team.</li>
+
+
+
+<li>Contributing ideas for improving security defenses.</li>
+
+
+
+<li>Getting a better understanding of how attackers think.</li>
+</ul>
+
+
+
+<p>This project showed me the importance of teamwork and how collaboration leads to better results.</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center has-medium-font-size"><strong>What I Enjoy About the Cloud</strong></h2>
+
+
+
+<p>For me, the best part of cloud computing is how hands-on it is. Whether it’s hosting a website or setting up a blog, you’re always solving real problems and seeing the results immediately. It’s also a field where you’re constantly learning, which keeps things interesting.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://Cdanielokereke.github.io/2024/12/28/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+	</channel>
+</rss>
